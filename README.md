@@ -1,5 +1,5 @@
 # 🙋‍♂️ About Me:
-✅ Versatile Full Stack Developer with problem-solving skills. Passionate about crafting seamless digital experiences and pushing technology boundaries.
+✅ I am a Full Stack Developer with problem-solving skills. Passionate about crafting seamless digital experiences and pushing technology boundaries.
 Skilled in a wide range of front-end, back-end and DevOps tools and technologies, leveraging innovative tools to architect high-performing applications.
 
 🚀 Feel free to visit my website https://subhchintak.vercel.app to explore some of my recent projects and find out more about me.
